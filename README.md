@@ -16,7 +16,6 @@ An end-to-end data analysis project focusing on analyzing fan sentiments, compla
 
 
 ## 📁 Repository Structure
-- `data/`: Contains clean sentiment dataset.
-- `reports/`: Power BI (.pbix) file.
-
+- `data/`: Contains clean sentiment dataset (concert_comments.csv).
+- `reports/`: Power BI (concert analysis.pbix) file.
 - `README.md`: Project summary and findings.
